@@ -47,6 +47,7 @@ main {
   border-radius: 5px;
   border: 1px solid #D5D4D8;
   text-indent: 5px;
+
 }
 
 .form--button {
@@ -58,6 +59,22 @@ main {
   border: none;
   cursor: pointer;
 }
+
+.download-button {
+  display: flex;
+  grid-column: 1 / -1;
+  justify-content: center;
+  align-items: center;
+  font-family: "Karla", sans-serif;
+  background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
 
 .meme {
   position: relative;
@@ -123,3 +140,4 @@ a {
 
 @media (max-width: 768px) {
 }
+
