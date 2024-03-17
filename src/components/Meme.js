@@ -84,7 +84,7 @@ export default function Meme() {
                     Get a new meme image 🖼
                 </button>
                 {meme.randomImage && (
-                    <button className="download-button" onClick={handleDownload}>
+                    <button className="form--button" onClick={handleDownload}>
                         Download Image 📥
                     </button>
                 )}
