@@ -60,7 +60,7 @@ React basis like:
 
 I'd like to:
 
-- Add a button to download meme generated including texts
+- Make it more mobile responsive
 
 ### Useful resources
 
