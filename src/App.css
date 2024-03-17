@@ -108,6 +108,9 @@ main {
   text-align: center;
   padding: 20px;
 }
+a {
+  color: black;
+}
 
 
 .meme {
