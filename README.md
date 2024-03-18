@@ -62,6 +62,7 @@ React basis like:
 I'd like to:
 
 - Make it more mobile responsive
+- Add a search functionality for specific meme templates
 
 ### Useful resources
 
