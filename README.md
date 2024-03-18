@@ -23,6 +23,11 @@ This is a solution to the [Meme Generator project on Scrimba](https://scrimba.co
 - Write top and bottom texts on memes via React form
 - Get a random meme image calling APIs
 
+### Screenshot
+
+<img width="928" alt="Screenshot 2024-03-17 161508" src="https://github.com/AWESOME04/meme-generator/assets/102630199/34c7fcb5-a3c7-485c-9ee1-4397258c2ac5">
+
+
 ### Links
 
 - Live Site URL: [@Netlify](https://meme-generator-68tn.vercel.app/)
